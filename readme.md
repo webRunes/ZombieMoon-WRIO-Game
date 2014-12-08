@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/webRunes/Chess-WRIO-App.svg?branch=master)](https://travis-ci.org/webRunes/Chess-WRIO-App)
+[![Build Status](https://travis-ci.org/webRunes/ZombieMoon-WRIO-Game.svg?branch=master)](https://travis-ci.org/webRunes/ZombieMoon-WRIO-Game)
 
 #Zombie Moon <sup>[WRIO](http://wr.io) Game</sup>
 (coming soon)
