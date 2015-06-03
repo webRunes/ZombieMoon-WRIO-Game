@@ -1,9 +1,9 @@
 [![Build Status](https://travis-ci.org/webRunes/ZombieMoon-WRIO-Game.svg?branch=master)](https://travis-ci.org/webRunes/ZombieMoon-WRIO-Game)
 
-#Zombie Moon <sup>[WRIO](http://wr.io) Game</sup>
+#Zombie Moon <sup>[WRIO](http://wrioos.com) Game</sup>
 (coming soon)
 
 ##Official Hub
-[https://zm.webrunes.com](https://zm.webrunes.com)
+[zm.wrioos.com](http://zm.wrioos.com)
 
 Powered by [Open Copyright](http://opencopyright.webrunes.com)
